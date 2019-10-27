@@ -1,0 +1,26 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+h1 {
+text-align: center;
+}
+tr {
+    background-color: #dddddd;
+    border-bottom: 4px solid #fcfcfc;
+}
+th{
+    background-color: #dddddd;
+    margin-bottom: 30px;
+}
+td, th {
+    border: 5% solid #fcfcfc;
+    text-align: left;
+    padding: 8px;
+    
+}
+td:first-child, th:first-child {
+    border-right: 3px solid black;
+}
+

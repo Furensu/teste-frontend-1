@@ -2,7 +2,7 @@
 Repositório usado para o teste de front-end do Núcleo de Tecnologia Multimídia.
 
 ## O que?
-Relatório que, utilizando dados de uma api, mostre a taxa (a partir do coeficiente) de ex-alunos do SENAI que continuam estudando por estado e também a taxa nacional.
+Relatório que, utilizando dados de uma api, mostre a taxa (média) de ex-alunos do SENAI que continuam estudando por estado e também a taxa nacional.
 
 
 Abaixo existe um link com um mockup que você pode usar de base, fique a vontade para mudá-lo, podendo usar grafico ao inves de tabelas ou como quiser, iremos levar isso consideração na hora de avaliar.
@@ -36,6 +36,10 @@ Faça download clicando [aqui](https://github.com/SENAI-NTM/teste-backend/blob/m
 1. Você está livre para escolher (ou não) qualquer framework/lib front-end.
 2. Adicione a esse README, instruções de como executar a sua solução.
 3. Você pode subir o seu código front-end através de um fork desse repositório github ou enviar por tudo email. Lembrando que temos preferência pelo o uso do github e iremos levar isso consideração na hora de avaliar.
-4. Você tem uma semana (5 dias) para a finalização do teste, a partir da data de envio do e-mail.
+4. Você tem uma semana (7 dias) para a finalização do teste, a partir da data de envio do e-mail.
 5. Se não conseguir finalizar os testes, não se preocupe, envie a sua solução no estágio de desenvolvimento que estiver.
 
+## Instruções de Execução
+1. Instalar o http-server.
+2. Executa-lo na pasta contendo o projeto.
+3. Abrir o endereço designado pelo http-server no navegador de preferencia
